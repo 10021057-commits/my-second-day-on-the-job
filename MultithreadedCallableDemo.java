@@ -43,5 +43,6 @@ public class MultithreadedCallableDemo {
         executor.shutdown();
 
         System.out.println("Total numbers counted between 1 and 1,000,000,000: " + totalCount);
+System.out.println("Master branch complete");
     }
 }
